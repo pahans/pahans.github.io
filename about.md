@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently working at a startup company called [meteorhacks](https://meteorhacks.com/), I was a mobile app developer before that. We are working on [kadira](https://kadira.io/), a performance monitoring tool for [meteorjs](https://www.meteor.com/). Mostly i am involved with the kadira's UI.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pahan123@gmail.com](mailto:pahan123@gmail.com)
