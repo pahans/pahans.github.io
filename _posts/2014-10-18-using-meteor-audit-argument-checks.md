@@ -8,7 +8,10 @@ title: using meteor audit-argument-checks
 Meteor uses JavaScript on both the client and on the server. 
 
 ##what is audit-argument-checks ? 
-It is a meteor package which throws an Meteor.Error when we are using client  side data without validating it.  ( Never trust a user input. right? ). Its job is to enforce security checks. For some weird reason many developers are not using it.
+It is a meteor package which throws an Meteor.Error when we are using client  side data without validating it.  ( Never trust a user input. right? ). Its job is to enforce security checks. For some weird reason only few developers are using it.
+
+
+<img src="http://cdn.meme.am/instances/800x/55419525.jpg" />
 
 {% highlight javascript %}
 meteor add audit-argument-checks
