@@ -10,13 +10,13 @@ Meteor uses JavaScript on both the client and on the server.
 ##what is audit-argument-checks ? 
 It is a meteor package which throws an Meteor.Error when we are using client  side data without validating it.  ( Never trust a user input. right? ). Its job is to enforce security checks. For some weird reason many developers are not using it.
 
-```js
+{% highlight javascript %}
 meteor add audit-argument-checks
-```
+{% endhighlight %}
 
 simply pass values comes from client side and their data types in to check().
 
-```javascript
+{% highlight javascript linenos %}
   Meteor.methods({
     DeleteUser: function(userId, userName) {
       check(userId, String);
@@ -24,7 +24,7 @@ simply pass values comes from client side and their data types in to check().
       //rest of the code
     }
   });
-```
+{% endhighlight %}
 
 ###Important
 * If you forgot to validate userId and userName on server side It will simply give a server side warning but it will not stop executing your code.
