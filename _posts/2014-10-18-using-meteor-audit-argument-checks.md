@@ -33,7 +33,7 @@ simply pass values comes from client side and their data types in to check().
 * If you forgot to validate userId and userName on server side It will simply give a server side warning but it will not stop executing your code.
 * If you use check() and it if client inputs doesnot match with your expected format it will throw a Error and it will not executed the code further.
 
-If you are interested in learning more about audit-argument-checks we should checkout [Bullet one of BulletProof Meteor](https://arunoda.typeform.com/to/glm9Qk). 
+If you are interested in learning more about audit-argument-checks you should checkout [Bullet one of BulletProof Meteor](https://arunoda.typeform.com/to/glm9Qk). 
 
 ###Learn more on meteor security 
 * [Emily Stark: Meteor Meets Mallory -- Devshop 6 Tech Talk](http://www.youtube.com/watch?v=79uMp-S23MA)
