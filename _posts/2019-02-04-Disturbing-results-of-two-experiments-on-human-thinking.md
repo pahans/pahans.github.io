@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Disturbing results of two experiments on human thinking.
 ---
 

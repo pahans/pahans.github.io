@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Create your own $5 VPN in 2 minutes
 ---
 

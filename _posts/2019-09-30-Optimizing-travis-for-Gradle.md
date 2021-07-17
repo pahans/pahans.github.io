@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Optimizing travis for Gradle.
 ---
 

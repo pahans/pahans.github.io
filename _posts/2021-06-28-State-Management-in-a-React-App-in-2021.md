@@ -1,4 +1,5 @@
 ---
+layout: post
 title: State Management in a React App in 2021
 ---
 

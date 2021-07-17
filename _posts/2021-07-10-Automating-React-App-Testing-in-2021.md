@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Automating React App Testing in 2021
 ---
 
