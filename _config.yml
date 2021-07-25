@@ -6,7 +6,7 @@
 name: Pahan Sarathchanda
 
 # Short bio or description (displayed in the header)
-description: Frontend Engineer at Lucytech/Fishbrain
+description: Developer based on Colombo, Sri Lanka.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/1552869?v=2&s=460
@@ -23,7 +23,7 @@ footer-links:
   flickr: 
   github: pahans
   instagram: 
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/pahan/
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: pahans
@@ -62,7 +62,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
